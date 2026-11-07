@@ -104,13 +104,15 @@ Computer Engineering
 
 ---
 
-## 📈 Contribution Graph
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JvCedrazC&theme=tokyo-night&hide_border=true)
+[![GitHub Contributions](https://ghchart.rshah.org/70a5fd/JvCedrazC)](https://github.com/JvCedrazC)
 
 </div>
+
 
 ---
 
