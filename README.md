@@ -15,7 +15,7 @@ Passionate about computer architecture, digital systems, and building solutions 
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering undergraduate at **UEFS — State University of Feira de Santana**
+- 🎓 Computer Engineering undergraduate student at **UEFS — State University of Feira de Santana**
 - 💻 Interested in both **hardware and software engineering**
 - 🔬 Exploring **Computer Architecture, FPGA, VLSI and Embedded Systems**
 - 🧠 Interested in **AI Hardware Acceleration and Parallel Computing**
